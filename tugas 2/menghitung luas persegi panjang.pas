@@ -1,4 +1,4 @@
-program latihan2_1;
+program menghitung_luas_persegi_panjang;
 uses crt;
 var
   p : Integer;
