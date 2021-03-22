@@ -1,4 +1,4 @@
-program latihan;
+program biodata_singkat;
 uses crt;
 
 begin
