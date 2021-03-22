@@ -1,4 +1,4 @@
-program tugas_1_2;
+program operasi_hitung;
 uses crt;
 var
   i : Integer;
