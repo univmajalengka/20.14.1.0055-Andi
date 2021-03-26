@@ -7,17 +7,17 @@ uses crt;
 
 begin
   clrscr;
-  Write('1. Nama : ');
+  Write('1. Nama   : ');
   ReadLn();
-  Write('2. NPM : ');
+  Write('2. NPM    : ');
   ReadLn();
   Write('3. Alamat : ');
   ReadLn();
-  Write('4. TTL : ');
+  Write('4. TTL    : ');
   ReadLn();
   Write('5. No. HP : ');
   ReadLn();
-  Write('6. Motto : ');
+  Write('6. Motto  : ');
   ReadLn();
   readln;
 
