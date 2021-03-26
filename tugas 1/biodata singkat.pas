@@ -1,3 +1,7 @@
+{Nama 			: Andi Gunawan}
+{NPM			: 20.14.1.0055			}
+{Nama program   : biodata singkat.pas}
+
 program biodata_singkat;
 uses crt;
 
