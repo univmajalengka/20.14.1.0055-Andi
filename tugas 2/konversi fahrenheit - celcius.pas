@@ -1,3 +1,7 @@
+{Nama 			: Andi Gunawan}
+{NPM			: 20.14.1.0055			}
+{Nama program   : konversi fahrenheit - celcius.pas}
+
 program konversi_fahrenheit_ke_celcius;
 uses crt;
 var
