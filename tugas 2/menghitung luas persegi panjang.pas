@@ -1,3 +1,7 @@
+{Nama 			: Andi Gunawan}
+{NPM			: 20.14.1.0055			}
+{Nama program   : menghitung_luas persegi panjang.pas}
+
 program menghitung_luas_persegi_panjang;
 uses crt;
 var
