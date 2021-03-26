@@ -1,3 +1,7 @@
+{Nama 			  : Andi Gunawan}
+{NPM		      : 20.14.1.0055}
+{Nama program     : opersi_hitung.pas}
+
 program operasi_hitung;
 uses crt;
 var
@@ -10,12 +14,25 @@ begin
   ReadLn(i);
   Write('Masukkan nilai j : ');
   ReadLn(j);
+  writeLn;
+  WriteLn;
+  
+writeln('Membuat Program Tampilan Operasi dan Hasil Operasi');
+writeln('-----------------------------------------');
+writeln('|     Operasi     |      Hasil Operasi  |');
+writeln('-----------------------------------------');
+write('|     ',i,' + ',j,'       |       ',i+j,'             |');
+writeln();
+write('|     ',i,' - ',j,'       |      ',i-j,'             |');
+writeln();
+write('|     ',i,' * ',j,'       |       ',i*j,'             |');
+writeln();
+write('|     ',i,' div ',j,'     |       ',i div j,'             |');
+writeln();
+write('|     ',i,' mod ',j,'     |       ',i mod j,'             |');
+writeln();
+writeln('-----------------------------------------');
 
-  WriteLn(i,' + ',j,' = ',i+j);
-  WriteLn(i,' - ',j,' = ',i-j);
-  WriteLn(i,' x ',j,' = ',i*j);
-  WriteLn(i,' div ',j,' = ',i div j);
-  WriteLn(i,' mod ',j,' = ',i mod j);
   readln;
 
 end.
