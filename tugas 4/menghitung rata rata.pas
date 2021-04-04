@@ -22,6 +22,7 @@ begin
 
 	for i := 1 to n do
 		begin
+			write('bilangan ke ',i,' : ');
 			readln(x);
 			tot := tot + x;
 		end;
