@@ -1,6 +1,6 @@
 //Nama : Andi Gunawan
 //NPM : 201410055
-//Nama Program : tugas4_2.cpp
+//Nama Program : menghitung_rata_rata.cpp
 #include<iostream>
 using namespace std;
 
