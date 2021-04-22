@@ -3,7 +3,7 @@ NPM        : 20.14.1.0055
 Kelompok   : 4
 Kode Soal  : C}
 
-program data_usia_mahasiswa;
+program Soal_C;
 uses crt;
 const
  Nmin = 1;
